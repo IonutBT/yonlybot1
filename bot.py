@@ -107,21 +107,21 @@ async def purge(ctx, number : int):
 @bot.command()
 async def help(ctx):
     await ctx.send("""   :zap:***Yonly BOT Commands:***:zap:
-:arrow_right: **u?say** : Make the bot say whatever you want
-:arrow_right: **u?ping** : Check the bot latency
-:arrow_right: **u?search** : Search something on Google
-:arrow_right: **u?avatar** : Get a player's avatar
-:arrow_right: **u?8ball** : Ask the Magic 8-Ball)
-:arrow_right: **u?playerinfo @<member>** : Get a member`s info
-:arrow_right: **u?serverinfo** Get a guild/server info
-:arrow_right: **u?botinfo** : Get the bot info
-:arrow_right: **u?lenny** : Just a lenny face
-:arrow_right: **u?respect** : Pay #respect)
-:arrow_right: **u?kick** : Kick a member (works only if the player has the Kick perm.)
-:arrow_right: **u?ban** : Ban a member (works only if the player has the Ban perm.)
-:arrow_right: **u?mass** : Sends a message to all members in a guild (BOT Owner only)
-:arrow_right: **u?shutdown** : Shuts down the bot (BOT Owner only)
-:arrow_right: **u?purge** : Clears a number of messages (works only if the player has the Manage Channels perm.)
+:arrow_right: **y?say** : Make the bot say whatever you want
+:arrow_right: **y?ping** : Check the bot latency
+:arrow_right: **y?search** : Search something on Google
+:arrow_right: **y?avatar** : Get a player's avatar
+:arrow_right: **y?8ball** : Ask the Magic 8-Ball)
+:arrow_right: **y?playerinfo @<member>** : Get a member`s info
+:arrow_right: **y?serverinfo** Get a guild/server info
+:arrow_right: **y?botinfo** : Get the bot info
+:arrow_right: **y?lenny** : Just a lenny face
+:arrow_right: **y?respect** : Pay #respect)
+:arrow_right: **y?kick** : Kick a member (works only if the player has the Kick perm.)
+:arrow_right: **y?ban** : Ban a member (works only if the player has the Ban perm.)
+:arrow_right: **y?mass** : Sends a message to all members in a guild (BOT Owner only)
+:arrow_right: **y?shutdown** : Shuts down the bot (BOT Owner only)
+:arrow_right: **y?purge** : Clears a number of messages (works only if the player has the Manage Channels perm.)
 """)
 
 
